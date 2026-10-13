@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "selenium-mcp": {
+      "command": "npx",
+      "args": ["-y", "selenium-webdriver-mcp@latest"]
+    }
+  }
+}
